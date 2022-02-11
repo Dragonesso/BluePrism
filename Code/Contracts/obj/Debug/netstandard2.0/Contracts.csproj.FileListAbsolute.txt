@@ -1,0 +1,9 @@
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\Contracts\bin\Debug\netstandard2.0\Contracts.deps.json
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\Contracts\bin\Debug\netstandard2.0\Contracts.dll
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\Contracts\bin\Debug\netstandard2.0\Contracts.pdb
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\Contracts\obj\Debug\netstandard2.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\Contracts\obj\Debug\netstandard2.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\Contracts\obj\Debug\netstandard2.0\Contracts.AssemblyInfo.cs
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\Contracts\obj\Debug\netstandard2.0\Contracts.dll
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\Contracts\obj\Debug\netstandard2.0\Contracts.pdb
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\Contracts\obj\Debug\netstandard2.0\Contracts.csprojAssemblyReference.cache

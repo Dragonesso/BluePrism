@@ -1,0 +1,4 @@
+COST
+COOT
+SOOT
+SPOT

@@ -1,0 +1,9 @@
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\OutputRD\bin\Release\netstandard2.0\OutputRD.deps.json
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\OutputRD\bin\Release\netstandard2.0\OutputRD.dll
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\OutputRD\bin\Release\netstandard2.0\OutputRD.pdb
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\OutputRD\obj\Release\netstandard2.0\OutputRD.csprojAssemblyReference.cache
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\OutputRD\obj\Release\netstandard2.0\OutputRD.csproj.CoreCompileInputs.cache
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\OutputRD\obj\Release\netstandard2.0\OutputRD.AssemblyInfoInputs.cache
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\OutputRD\obj\Release\netstandard2.0\OutputRD.AssemblyInfo.cs
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\OutputRD\obj\Release\netstandard2.0\OutputRD.dll
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\OutputRD\obj\Release\netstandard2.0\OutputRD.pdb

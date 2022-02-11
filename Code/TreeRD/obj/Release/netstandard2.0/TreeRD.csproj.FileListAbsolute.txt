@@ -1,0 +1,12 @@
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\TreeRD\bin\Release\netstandard2.0\TreeRD.deps.json
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\TreeRD\bin\Release\netstandard2.0\TreeRD.dll
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\TreeRD\bin\Release\netstandard2.0\TreeRD.pdb
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\TreeRD\bin\Release\netstandard2.0\Contracts.dll
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\TreeRD\bin\Release\netstandard2.0\Contracts.pdb
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\TreeRD\obj\Release\netstandard2.0\TreeRD.csprojAssemblyReference.cache
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\TreeRD\obj\Release\netstandard2.0\TreeRD.csproj.CoreCompileInputs.cache
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\TreeRD\obj\Release\netstandard2.0\TreeRD.AssemblyInfoInputs.cache
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\TreeRD\obj\Release\netstandard2.0\TreeRD.AssemblyInfo.cs
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\TreeRD\obj\Release\netstandard2.0\TreeRD.csproj.CopyComplete
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\TreeRD\obj\Release\netstandard2.0\TreeRD.dll
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\TreeRD\obj\Release\netstandard2.0\TreeRD.pdb

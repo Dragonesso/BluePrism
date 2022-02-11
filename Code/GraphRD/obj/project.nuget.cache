@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fulhCaOc2bson6zE8d2oPCcVgMXP7eCsrgge6eK8NCeKqadVSIK0/zcYPnY/hvrhF1zegV7ZP6qlfdAJDvlEPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ex92074\\source\\repos\\BluePrismTechnicalTest\\GraphRD\\GraphRD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ex92074\\.nuget\\packages\\dijkstra.net\\1.2.1\\dijkstra.net.1.2.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

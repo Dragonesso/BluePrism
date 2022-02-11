@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OPbM31OhlI8OlFGjFh6pxXMfCpd/0F7TOGFehw51py4ohjURdY1hzf+z/Dvvc4f/4hM3gOFGH6j1oCmk5tWZ/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ex92074\\source\\repos\\BluePrismTechnicalTest\\Contracts\\Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

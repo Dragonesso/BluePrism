@@ -1,0 +1,9 @@
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\LoadDictionary\bin\Debug\netstandard2.0\LoadDictionary.deps.json
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\LoadDictionary\bin\Debug\netstandard2.0\LoadDictionary.dll
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\LoadDictionary\bin\Debug\netstandard2.0\LoadDictionary.pdb
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\LoadDictionary\obj\Debug\netstandard2.0\LoadDictionary.csproj.CoreCompileInputs.cache
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\LoadDictionary\obj\Debug\netstandard2.0\LoadDictionary.AssemblyInfoInputs.cache
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\LoadDictionary\obj\Debug\netstandard2.0\LoadDictionary.AssemblyInfo.cs
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\LoadDictionary\obj\Debug\netstandard2.0\LoadDictionary.dll
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\LoadDictionary\obj\Debug\netstandard2.0\LoadDictionary.pdb
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\LoadDictionary\obj\Debug\netstandard2.0\LoadDictionary.csprojAssemblyReference.cache

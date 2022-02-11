@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IOv+yWWJHMxwVKBGLQohxkAPG3nakUEa06GW804lt3bxSkFkMVcIOMRd8Btp2NObjdteS7V7wNI8lgmg8+cPCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ex92074\\source\\repos\\BluePrismTechnicalTest\\LoadDictionary\\LoadDictionary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

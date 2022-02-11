@@ -1,0 +1,12 @@
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\GraphRD\bin\Debug\netstandard2.0\GraphRD.deps.json
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\GraphRD\bin\Debug\netstandard2.0\GraphRD.dll
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\GraphRD\bin\Debug\netstandard2.0\GraphRD.pdb
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\GraphRD\bin\Debug\netstandard2.0\Contracts.dll
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\GraphRD\bin\Debug\netstandard2.0\Contracts.pdb
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\GraphRD\obj\Debug\netstandard2.0\GraphRD.csprojAssemblyReference.cache
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\GraphRD\obj\Debug\netstandard2.0\GraphRD.csproj.CoreCompileInputs.cache
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\GraphRD\obj\Debug\netstandard2.0\GraphRD.AssemblyInfoInputs.cache
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\GraphRD\obj\Debug\netstandard2.0\GraphRD.AssemblyInfo.cs
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\GraphRD\obj\Debug\netstandard2.0\GraphRD.csproj.CopyComplete
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\GraphRD\obj\Debug\netstandard2.0\GraphRD.dll
+C:\Users\ex92074\source\repos\BluePrismTechnicalTest\GraphRD\obj\Debug\netstandard2.0\GraphRD.pdb

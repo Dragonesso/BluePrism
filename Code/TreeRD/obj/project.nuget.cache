@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0pFO+ydFCO4d4MTD0PuTHq3daOBWULLx9e2kwxpVjLmE3CH0llcnB9fTk8M9Qh7QOoqIZaiYyAFTZb6/x1awtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ex92074\\source\\repos\\BluePrismTechnicalTest\\TreeRD\\TreeRD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
